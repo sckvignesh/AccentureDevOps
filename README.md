@@ -1,3 +1,11 @@
+# Pipeline stages:
+
+git checkout - GitHub Hook Trigger for SCM
+Docker build - buolding the docker image
+docker push - pushing the docker image to dockerhub
+run the docker container - run on the localhost
+email notification on success and failure
+
 # deploy-cicd
 Steps to run your application
 1. clone the project
