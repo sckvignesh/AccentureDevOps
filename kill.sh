@@ -1,1 +1,0 @@
-docker container kill $(docker ps | awk '/devopsrubyacc/ {print $1}')
