@@ -1,41 +1,30 @@
 {
     "prompts": [
-        "What do you specialize in?"
+        "Some things to talk about"
     ],
     "topics" : [
         {
-            "title" : "DevOps",
+            "title" : "What are things you like doing in your free time?",
             "prompts" : [
-                "I like building CI/CD pipelines.",
-                "I specialize in building cloud infrastructure as code."
+                "I like to stay home to spend most of my activities.",
+                "I am always out and about."
             ],
             "responses" : [
-                "Jenkins is my best friend!",
-                "I am proficient in various Infrastructure-as-Code tools."
+                "Maybe just get comfortable at home to watch a nice movie.",
+                "Doing sports, exploring cafes and perhaps catch a movie in the cinema."
             ]
         },
         {
-            "title" : "Appplication Development",
+            "title" : "How would you describe yourself?",
             "prompts" : [
-                "I've built massive monolithic applications.",
-                "I am more of a microservices developer.",
-                "I specialize more in frontend development"
+                "I am a homebody",
+                "I would describe myself an explorer",
+                "I am an extrovert and prefer interaction with big groups"
             ],
             "responses" : [
-                "I package my entire application in single jar file.",
-                "Microservices are the future!",
-                "I enjoy working with the UI/UX team to convert their designs into a web application"
-            ]
-        },
-        {
-            "title" : "Systems Engineer",
-            "prompts" : [
-                "I know the ins and outs of Linux systems.",
-                "Windows systems provide a better way for me to build my skills"
-            ],
-            "responses" : [
-                "Linux filesystems are easier to learn.",
-                "I like the fact that we have a visual console for Windows servers (if we enable it)"
+                "I enjoy my time with friends at home playing boardgames.",
+                "I always try to explore hiking spots to discover places.",
+                "I am always the life of the party!"
             ]
         }
     ]
